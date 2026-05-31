@@ -1,4 +1,4 @@
-
+```
 C:\Users\<USER>\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt
 
 
@@ -7,3 +7,4 @@ The history file is very useful for tracking malicious actions like system disco
 The history file is created for every user, meaning that you may see five files if there are five active system users.
 It survives system reboots unless manually deleted and saves all PowerShell commands entered for all time.
 It does not log command outputs and does not show script content (e.g. when running powershell .\script.ps1)
+```
